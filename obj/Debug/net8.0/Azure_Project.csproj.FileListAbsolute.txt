@@ -28,3 +28,4 @@ D:\Educational\Azure Fundamentals (AZ-900)\Major Project\Azure_Project\obj\Debug
 D:\Educational\Azure Fundamentals (AZ-900)\Major Project\Azure_Project\obj\Debug\net8.0\Azure_Project.pdb
 D:\Educational\Azure Fundamentals (AZ-900)\Major Project\Azure_Project\obj\Debug\net8.0\Azure_Project.genruntimeconfig.cache
 D:\Educational\Azure Fundamentals (AZ-900)\Major Project\Azure_Project\obj\Debug\net8.0\ref\Azure_Project.dll
+D:\Educational\Azure Fundamentals (AZ-900)\Major Project\Azure_Project\obj\Debug\net8.0\Azure_Project.sourcelink.json
